@@ -89,18 +89,19 @@ Aditya College of Engineering & Technology (JNTUK), 2022–2026
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Random Dev Quote
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durga-lucky&show_icons=true&theme=radical" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durga-lucky&layout=compact&theme=radical" alt="langs" height="180"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
+## 👀 Visitor Count
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durga-lucky&theme=radical" alt="streak" />
+  <img src="https://komarev.com/ghpvc/?username=durga-lucky&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+## 🐍 Watch my contributions snake
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durga-lucky&theme=radical" alt="summary" />
+  <img src="https://raw.githubusercontent.com/durga-lucky/durga-lucky/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
