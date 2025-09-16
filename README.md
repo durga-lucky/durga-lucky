@@ -1,16 +1,108 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tangila Durga Rao</h1>
 
-<!--
-**durga-lucky/durga-lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Full+Stack+Developer;Competitive+Programmer;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">🚀 Aspiring Software Developer | Full Stack Developer | Competitive Programmer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/durga-lucky"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/tangila-durga-rao-24423a303/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:22mh1a05f0@acoe.edu.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://durga-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-ff9800?logo=About.me&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
+</p>
+
+**Frontend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,vite" />
+</p>
+
+**Backend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+**Databases**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**DevOps / Cloud**  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,netlify" />
+</p>
+
+**Tools & OS**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
+
+---
+
+## 🏆 Achievements & Competitive Programming
+- 🟠 **LeetCode:** 180+ problems | 100-Day Streak → [Profile](https://leetcode.com/u/durga_rao121/)  
+- 🟣 **CodeChef:** Rating 1501 | 257 problems → [Profile](https://www.codechef.com/users/tdurgarao)  
+- 🟢 **HackerRank:** Certified in Problem Solving, Java, Python, SQL, REST API, React → [Profile](https://www.hackerrank.com/profile/22MH1A05f0)  
+
+---
+
+## 💻 Projects
+
+- 🔹 **[Task Management System](https://task-management-system-beta-orpin.vercel.app/)**  
+  Full-stack app with JWT authentication, role-based access, and automated reminders.  
+  *Tech:* React, Node.js, Express, MySQL  
+
+- 🔹 **[IPL Score Prediction](https://github.com/durga-lucky/Ipl-score-prediction-using-deeplearning)**  
+  Real-time score prediction using TensorFlow & Streamlit (92% accuracy).  
+  *Tech:* Python, TensorFlow, Streamlit  
+
+- 🔹 **[Portfolio Website](https://tangila-durgarao-portfolio.vercel.app/)**  
+  Responsive portfolio with GitHub integration.  
+  *Tech:* React, Tailwind CSS, Netlify  
+
+---
+
+## 🎓 Education
+**B.Tech in Computer Science and Engineering**  
+Aditya College of Engineering & Technology (JNTUK), 2022–2026  
+*(CGPA: 7.0/10.0)*  
+
+---
+
+## 📜 Certifications
+- HackerRank: Problem Solving, Java, Python, SQL, REST API, React  
+- IBM: Python Essentials  
+- EDX: Java Programming  
+- APSSDC: AIML Internship  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=durga-lucky&show_icons=true&theme=radical" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durga-lucky&layout=compact&theme=radical" alt="langs" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durga-lucky&theme=radical" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durga-lucky&theme=radical" alt="summary" />
+</p>
+
+---
+
+✨ *Always open to learning, collaborating, and contributing to impactful projects!*  
