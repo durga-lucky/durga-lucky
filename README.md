@@ -99,10 +99,6 @@ Aditya College of Engineering & Technology (JNTUK), 2022–2026
   <img src="https://komarev.com/ghpvc/?username=durga-lucky&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-## 🐍 Watch my contributions snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/durga-lucky/durga-lucky/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
